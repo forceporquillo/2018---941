@@ -1,0 +1,2 @@
+C:\Users\fporq\AppData\Local\Temp\ccVuMz6r.o:main.cpp:(.text+0x1e): undefined reference to `menuList(Node*)'
+collect2.exe: error: ld returned 1 exit status
